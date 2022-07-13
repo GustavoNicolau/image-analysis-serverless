@@ -11,7 +11,7 @@
 - configure application
 
 ```bash
-  npm install -g serverless
+  npm install
 ```
 
 - run local
